@@ -1,0 +1,3 @@
+FPGA Chip: Spartan-7 XC7515
+WIFI/BLE: ESP32
+IMU传感器
