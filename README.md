@@ -17,3 +17,7 @@ ardunio1.8
 板卡型号: SEA
 芯片型号：spartan7 xcs15
 # 仓库⽬录介绍
+images——作品图片与项目框图
+project and code——FPGA_Project：vivado源代码
+project and code——Gyro_Demo.bit：所需烧录的bit文件
+project and code——Gyro2AWSloT：arduino工程文件及qspi通信协议
